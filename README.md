@@ -1,1 +1,1 @@
-# ivsm-ecommerce ADMIN PANEL `(IN DEVELOPMENT)`
+# ivsm-ecommerce client `(IN DEVELOPMENT)`
